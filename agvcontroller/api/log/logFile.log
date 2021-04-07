@@ -1,0 +1,613 @@
+15:53:32.636 [Test worker] INFO  c.h.AgvcontrollerApplicationTests:55- Starting AgvcontrollerApplicationTests using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 6948 (started by JieBrother in D:\study\agv\agvcontroller\api)
+15:53:32.636 [Test worker] DEBUG c.h.AgvcontrollerApplicationTests:56- Running with Spring Boot v2.4.4, Spring v5.3.5
+15:53:32.639 [Test worker] INFO  c.h.AgvcontrollerApplicationTests:662- No active profile set, falling back to default profiles: default
+15:53:32.812 [Test worker] INFO  c.h.AgvcontrollerApplicationTests:61- Started AgvcontrollerApplicationTests in 0.434 seconds (JVM running for 2.598)
+15:53:33.053 [Test worker] INFO  c.h.AgvcontrollerApplicationTests:17- 2333333
+15:54:13.929 [Test worker] INFO  c.h.AgvcontrollerApplicationTests:55- Starting AgvcontrollerApplicationTests using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 14076 (started by JieBrother in D:\study\agv\agvcontroller\api)
+15:54:13.931 [Test worker] DEBUG c.h.AgvcontrollerApplicationTests:56- Running with Spring Boot v2.4.4, Spring v5.3.5
+15:54:13.935 [Test worker] INFO  c.h.AgvcontrollerApplicationTests:662- No active profile set, falling back to default profiles: default
+15:54:14.123 [Test worker] INFO  c.h.AgvcontrollerApplicationTests:61- Started AgvcontrollerApplicationTests in 0.465 seconds (JVM running for 2.667)
+15:54:14.366 [Test worker] ERROR c.h.AgvcontrollerApplicationTests:17- 2333333
+15:56:18.826 [Test worker] INFO  c.h.AgvcontrollerApplicationTests:55- Starting AgvcontrollerApplicationTests using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 7272 (started by JieBrother in D:\study\agv\agvcontroller\api)
+15:56:18.827 [Test worker] DEBUG c.h.AgvcontrollerApplicationTests:56- Running with Spring Boot v2.4.4, Spring v5.3.5
+15:56:18.829 [Test worker] INFO  c.h.AgvcontrollerApplicationTests:662- No active profile set, falling back to default profiles: default
+15:56:19.002 [Test worker] INFO  c.h.AgvcontrollerApplicationTests:61- Started AgvcontrollerApplicationTests in 0.418 seconds (JVM running for 2.409)
+15:56:19.239 [Test worker] ERROR c.h.AgvcontrollerApplicationTests:17- 2333333
+2021-04-03 15:59:00.416 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarting AgvcontrollerApplication using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 11176 (D:\study\agv\agvcontroller\api\build\classes\java\main started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 15:59:00.421 [main] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 15:59:00.421 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 15:59:01.859 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mDriver class org.h2.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@b4aac2[0;39m 
+2021-04-03 15:59:01.937 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mHikariPool-1 - configuration:[0;39m 
+2021-04-03 15:59:01.939 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mallowPoolSuspension.............false[0;39m 
+2021-04-03 15:59:01.939 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mautoCommit......................true[0;39m 
+2021-04-03 15:59:01.939 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mcatalog.........................none[0;39m 
+2021-04-03 15:59:01.940 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionInitSql...............none[0;39m 
+2021-04-03 15:59:01.940 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTestQuery.............none[0;39m 
+2021-04-03 15:59:01.940 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTimeout...............30000[0;39m 
+2021-04-03 15:59:01.940 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSource......................none[0;39m 
+2021-04-03 15:59:01.940 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceClassName.............none[0;39m 
+2021-04-03 15:59:01.941 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceJNDI..................none[0;39m 
+2021-04-03 15:59:01.941 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceProperties............{password=<masked>}[0;39m 
+2021-04-03 15:59:01.941 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdriverClassName................."org.h2.Driver"[0;39m 
+2021-04-03 15:59:01.941 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mexceptionOverrideClassName......none[0;39m 
+2021-04-03 15:59:01.942 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckProperties...........{}[0;39m 
+2021-04-03 15:59:01.942 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckRegistry.............none[0;39m 
+2021-04-03 15:59:01.942 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39midleTimeout.....................600000[0;39m 
+2021-04-03 15:59:01.942 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39minitializationFailTimeout.......1[0;39m 
+2021-04-03 15:59:01.943 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39misolateInternalQueries..........false[0;39m 
+2021-04-03 15:59:01.943 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mjdbcUrl.........................jdbc:h2:mem:testdb[0;39m 
+2021-04-03 15:59:01.943 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mleakDetectionThreshold..........0[0;39m 
+2021-04-03 15:59:01.943 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaxLifetime.....................1800000[0;39m 
+2021-04-03 15:59:01.943 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaximumPoolSize.................10[0;39m 
+2021-04-03 15:59:01.943 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricRegistry..................none[0;39m 
+2021-04-03 15:59:01.944 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricsTrackerFactory...........none[0;39m 
+2021-04-03 15:59:01.944 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mminimumIdle.....................10[0;39m 
+2021-04-03 15:59:01.944 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpassword........................<masked>[0;39m 
+2021-04-03 15:59:01.944 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpoolName........................"HikariPool-1"[0;39m 
+2021-04-03 15:59:01.944 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mreadOnly........................false[0;39m 
+2021-04-03 15:59:01.945 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mregisterMbeans..................false[0;39m 
+2021-04-03 15:59:01.945 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mscheduledExecutor...............none[0;39m 
+2021-04-03 15:59:01.945 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mschema..........................none[0;39m 
+2021-04-03 15:59:01.945 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mthreadFactory...................internal[0;39m 
+2021-04-03 15:59:01.945 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mtransactionIsolation............default[0;39m 
+2021-04-03 15:59:01.945 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39musername........................"sa"[0;39m 
+2021-04-03 15:59:01.946 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mvalidationTimeout...............5000[0;39m 
+2021-04-03 15:59:01.946 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Starting...[0;39m 
+2021-04-03 15:59:02.015 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 15:59:02.017 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Start completed.[0;39m 
+2021-04-03 15:59:02.118 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)[0;39m 
+2021-04-03 15:59:02.119 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn1: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 15:59:02.119 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn2: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 15:59:02.120 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn3: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 15:59:02.121 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn4: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 15:59:02.121 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn5: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 15:59:02.122 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn6: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 15:59:02.122 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn7: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 15:59:02.122 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn8: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 15:59:02.123 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn9: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 15:59:02.123 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 15:59:03.717 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarted AgvcontrollerApplication in 3.804 seconds (JVM running for 5.398)[0;39m 
+2021-04-03 15:59:32.120 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 15:59:32.120 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Fill pool skipped, pool is at sufficient level.[0;39m 
+2021-04-03 15:59:34.136 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarting AgvcontrollerApplicationTests using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 10184 (started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 15:59:34.137 [Test worker] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 15:59:34.138 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 15:59:34.311 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarted AgvcontrollerApplicationTests in 0.428 seconds (JVM running for 2.49)[0;39m 
+2021-04-03 15:59:34.544 [Test worker] [1;31mERROR[0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [1;31m2333333[0;39m 
+2021-04-03 16:00:02.120 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:00:02.120 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Fill pool skipped, pool is at sufficient level.[0;39m 
+2021-04-03 16:00:25.476 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarting AgvcontrollerApplication using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 13880 (D:\study\agv\agvcontroller\api\build\classes\java\main started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 16:00:25.481 [main] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 16:00:25.482 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 16:00:26.965 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mDriver class org.h2.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@b4aac2[0;39m 
+2021-04-03 16:00:27.052 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mHikariPool-1 - configuration:[0;39m 
+2021-04-03 16:00:27.054 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mallowPoolSuspension.............false[0;39m 
+2021-04-03 16:00:27.054 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mautoCommit......................true[0;39m 
+2021-04-03 16:00:27.054 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mcatalog.........................none[0;39m 
+2021-04-03 16:00:27.055 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionInitSql...............none[0;39m 
+2021-04-03 16:00:27.055 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTestQuery.............none[0;39m 
+2021-04-03 16:00:27.055 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTimeout...............30000[0;39m 
+2021-04-03 16:00:27.055 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSource......................none[0;39m 
+2021-04-03 16:00:27.055 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceClassName.............none[0;39m 
+2021-04-03 16:00:27.055 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceJNDI..................none[0;39m 
+2021-04-03 16:00:27.056 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceProperties............{password=<masked>}[0;39m 
+2021-04-03 16:00:27.056 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdriverClassName................."org.h2.Driver"[0;39m 
+2021-04-03 16:00:27.056 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mexceptionOverrideClassName......none[0;39m 
+2021-04-03 16:00:27.057 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckProperties...........{}[0;39m 
+2021-04-03 16:00:27.057 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckRegistry.............none[0;39m 
+2021-04-03 16:00:27.057 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39midleTimeout.....................600000[0;39m 
+2021-04-03 16:00:27.057 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39minitializationFailTimeout.......1[0;39m 
+2021-04-03 16:00:27.057 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39misolateInternalQueries..........false[0;39m 
+2021-04-03 16:00:27.058 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mjdbcUrl.........................jdbc:h2:mem:testdb[0;39m 
+2021-04-03 16:00:27.058 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mleakDetectionThreshold..........0[0;39m 
+2021-04-03 16:00:27.058 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaxLifetime.....................1800000[0;39m 
+2021-04-03 16:00:27.058 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaximumPoolSize.................10[0;39m 
+2021-04-03 16:00:27.058 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricRegistry..................none[0;39m 
+2021-04-03 16:00:27.059 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricsTrackerFactory...........none[0;39m 
+2021-04-03 16:00:27.059 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mminimumIdle.....................10[0;39m 
+2021-04-03 16:00:27.059 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpassword........................<masked>[0;39m 
+2021-04-03 16:00:27.059 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpoolName........................"HikariPool-1"[0;39m 
+2021-04-03 16:00:27.059 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mreadOnly........................false[0;39m 
+2021-04-03 16:00:27.060 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mregisterMbeans..................false[0;39m 
+2021-04-03 16:00:27.060 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mscheduledExecutor...............none[0;39m 
+2021-04-03 16:00:27.060 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mschema..........................none[0;39m 
+2021-04-03 16:00:27.060 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mthreadFactory...................internal[0;39m 
+2021-04-03 16:00:27.060 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mtransactionIsolation............default[0;39m 
+2021-04-03 16:00:27.060 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39musername........................"sa"[0;39m 
+2021-04-03 16:00:27.061 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mvalidationTimeout...............5000[0;39m 
+2021-04-03 16:00:27.061 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Starting...[0;39m 
+2021-04-03 16:00:27.135 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:00:27.137 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Start completed.[0;39m 
+2021-04-03 16:00:27.239 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)[0;39m 
+2021-04-03 16:00:27.240 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn1: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:00:27.240 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn2: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:00:27.240 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn3: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:00:27.241 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn4: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:00:27.241 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn5: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:00:27.241 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn6: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:00:27.241 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn7: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:00:27.242 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn8: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:00:27.242 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn9: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:00:27.242 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:00:28.731 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarted AgvcontrollerApplication in 3.61 seconds (JVM running for 5.04)[0;39m 
+2021-04-03 16:00:59.258 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarting AgvcontrollerApplication using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 12704 (D:\study\agv\agvcontroller\api\build\classes\java\main started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 16:00:59.261 [main] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 16:00:59.262 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 16:01:00.824 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mDriver class org.h2.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@b4aac2[0;39m 
+2021-04-03 16:01:00.916 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mHikariPool-1 - configuration:[0;39m 
+2021-04-03 16:01:00.918 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mallowPoolSuspension.............false[0;39m 
+2021-04-03 16:01:00.919 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mautoCommit......................true[0;39m 
+2021-04-03 16:01:00.919 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mcatalog.........................none[0;39m 
+2021-04-03 16:01:00.919 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionInitSql...............none[0;39m 
+2021-04-03 16:01:00.920 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTestQuery.............none[0;39m 
+2021-04-03 16:01:00.920 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTimeout...............30000[0;39m 
+2021-04-03 16:01:00.920 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSource......................none[0;39m 
+2021-04-03 16:01:00.921 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceClassName.............none[0;39m 
+2021-04-03 16:01:00.921 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceJNDI..................none[0;39m 
+2021-04-03 16:01:00.922 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceProperties............{password=<masked>}[0;39m 
+2021-04-03 16:01:00.922 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdriverClassName................."org.h2.Driver"[0;39m 
+2021-04-03 16:01:00.923 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mexceptionOverrideClassName......none[0;39m 
+2021-04-03 16:01:00.923 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckProperties...........{}[0;39m 
+2021-04-03 16:01:00.924 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckRegistry.............none[0;39m 
+2021-04-03 16:01:00.924 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39midleTimeout.....................600000[0;39m 
+2021-04-03 16:01:00.925 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39minitializationFailTimeout.......1[0;39m 
+2021-04-03 16:01:00.925 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39misolateInternalQueries..........false[0;39m 
+2021-04-03 16:01:00.925 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mjdbcUrl.........................jdbc:h2:mem:testdb[0;39m 
+2021-04-03 16:01:00.926 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mleakDetectionThreshold..........0[0;39m 
+2021-04-03 16:01:00.926 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaxLifetime.....................1800000[0;39m 
+2021-04-03 16:01:00.926 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaximumPoolSize.................10[0;39m 
+2021-04-03 16:01:00.926 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricRegistry..................none[0;39m 
+2021-04-03 16:01:00.927 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricsTrackerFactory...........none[0;39m 
+2021-04-03 16:01:00.927 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mminimumIdle.....................10[0;39m 
+2021-04-03 16:01:00.927 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpassword........................<masked>[0;39m 
+2021-04-03 16:01:00.927 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpoolName........................"HikariPool-1"[0;39m 
+2021-04-03 16:01:00.928 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mreadOnly........................false[0;39m 
+2021-04-03 16:01:00.928 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mregisterMbeans..................false[0;39m 
+2021-04-03 16:01:00.928 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mscheduledExecutor...............none[0;39m 
+2021-04-03 16:01:00.928 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mschema..........................none[0;39m 
+2021-04-03 16:01:00.929 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mthreadFactory...................internal[0;39m 
+2021-04-03 16:01:00.929 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mtransactionIsolation............default[0;39m 
+2021-04-03 16:01:00.929 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39musername........................"sa"[0;39m 
+2021-04-03 16:01:00.929 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mvalidationTimeout...............5000[0;39m 
+2021-04-03 16:01:00.930 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Starting...[0;39m 
+2021-04-03 16:01:01.009 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:01:01.011 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Start completed.[0;39m 
+2021-04-03 16:01:01.112 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)[0;39m 
+2021-04-03 16:01:01.115 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn1: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:01:01.116 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn2: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:01:01.116 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn3: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:01:01.116 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn4: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:01:01.117 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn5: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:01:01.117 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn6: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:01:01.118 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn7: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:01:01.118 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn8: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:01:01.118 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn9: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:01:01.118 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:01:02.757 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarted AgvcontrollerApplication in 3.876 seconds (JVM running for 5.404)[0;39m 
+2021-04-03 16:02:22.460 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarting AgvcontrollerApplication using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 7012 (D:\study\agv\agvcontroller\api\build\classes\java\main started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 16:02:22.465 [main] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 16:02:22.465 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 16:02:24.259 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mDriver class org.h2.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@b4aac2[0;39m 
+2021-04-03 16:02:24.380 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mHikariPool-1 - configuration:[0;39m 
+2021-04-03 16:02:24.382 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mallowPoolSuspension.............false[0;39m 
+2021-04-03 16:02:24.383 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mautoCommit......................true[0;39m 
+2021-04-03 16:02:24.383 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mcatalog.........................none[0;39m 
+2021-04-03 16:02:24.383 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionInitSql...............none[0;39m 
+2021-04-03 16:02:24.384 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTestQuery.............none[0;39m 
+2021-04-03 16:02:24.384 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTimeout...............30000[0;39m 
+2021-04-03 16:02:24.384 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSource......................none[0;39m 
+2021-04-03 16:02:24.384 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceClassName.............none[0;39m 
+2021-04-03 16:02:24.385 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceJNDI..................none[0;39m 
+2021-04-03 16:02:24.385 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceProperties............{password=<masked>}[0;39m 
+2021-04-03 16:02:24.385 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdriverClassName................."org.h2.Driver"[0;39m 
+2021-04-03 16:02:24.386 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mexceptionOverrideClassName......none[0;39m 
+2021-04-03 16:02:24.386 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckProperties...........{}[0;39m 
+2021-04-03 16:02:24.386 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckRegistry.............none[0;39m 
+2021-04-03 16:02:24.386 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39midleTimeout.....................600000[0;39m 
+2021-04-03 16:02:24.386 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39minitializationFailTimeout.......1[0;39m 
+2021-04-03 16:02:24.387 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39misolateInternalQueries..........false[0;39m 
+2021-04-03 16:02:24.387 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mjdbcUrl.........................jdbc:h2:mem:testdb[0;39m 
+2021-04-03 16:02:24.387 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mleakDetectionThreshold..........0[0;39m 
+2021-04-03 16:02:24.388 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaxLifetime.....................1800000[0;39m 
+2021-04-03 16:02:24.388 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaximumPoolSize.................10[0;39m 
+2021-04-03 16:02:24.388 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricRegistry..................none[0;39m 
+2021-04-03 16:02:24.388 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricsTrackerFactory...........none[0;39m 
+2021-04-03 16:02:24.388 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mminimumIdle.....................10[0;39m 
+2021-04-03 16:02:24.389 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpassword........................<masked>[0;39m 
+2021-04-03 16:02:24.389 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpoolName........................"HikariPool-1"[0;39m 
+2021-04-03 16:02:24.389 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mreadOnly........................false[0;39m 
+2021-04-03 16:02:24.389 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mregisterMbeans..................false[0;39m 
+2021-04-03 16:02:24.390 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mscheduledExecutor...............none[0;39m 
+2021-04-03 16:02:24.390 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mschema..........................none[0;39m 
+2021-04-03 16:02:24.390 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mthreadFactory...................internal[0;39m 
+2021-04-03 16:02:24.390 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mtransactionIsolation............default[0;39m 
+2021-04-03 16:02:24.391 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39musername........................"sa"[0;39m 
+2021-04-03 16:02:24.391 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mvalidationTimeout...............5000[0;39m 
+2021-04-03 16:02:24.391 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Starting...[0;39m 
+2021-04-03 16:02:24.483 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:02:24.485 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Start completed.[0;39m 
+2021-04-03 16:02:24.586 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)[0;39m 
+2021-04-03 16:02:24.587 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn1: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:02:24.588 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn2: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:02:24.588 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn3: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:02:24.589 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn4: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:02:24.589 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn5: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:02:24.589 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn6: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:02:24.590 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn7: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:02:24.590 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn8: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:02:24.590 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn9: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:02:24.591 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:02:26.422 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarted AgvcontrollerApplication in 4.4 seconds (JVM running for 6.018)[0;39m 
+2021-04-03 16:03:11.003 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarting AgvcontrollerApplication using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 11424 (D:\study\agv\agvcontroller\api\build\classes\java\main started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 16:03:11.006 [main] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 16:03:11.006 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 16:03:12.748 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mDriver class org.h2.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@b4aac2[0;39m 
+2021-04-03 16:03:12.842 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mHikariPool-1 - configuration:[0;39m 
+2021-04-03 16:03:12.844 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mallowPoolSuspension.............false[0;39m 
+2021-04-03 16:03:12.844 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mautoCommit......................true[0;39m 
+2021-04-03 16:03:12.844 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mcatalog.........................none[0;39m 
+2021-04-03 16:03:12.844 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionInitSql...............none[0;39m 
+2021-04-03 16:03:12.845 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTestQuery.............none[0;39m 
+2021-04-03 16:03:12.845 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTimeout...............30000[0;39m 
+2021-04-03 16:03:12.845 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSource......................none[0;39m 
+2021-04-03 16:03:12.845 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceClassName.............none[0;39m 
+2021-04-03 16:03:12.845 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceJNDI..................none[0;39m 
+2021-04-03 16:03:12.846 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceProperties............{password=<masked>}[0;39m 
+2021-04-03 16:03:12.846 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdriverClassName................."org.h2.Driver"[0;39m 
+2021-04-03 16:03:12.846 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mexceptionOverrideClassName......none[0;39m 
+2021-04-03 16:03:12.846 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckProperties...........{}[0;39m 
+2021-04-03 16:03:12.846 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckRegistry.............none[0;39m 
+2021-04-03 16:03:12.846 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39midleTimeout.....................600000[0;39m 
+2021-04-03 16:03:12.847 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39minitializationFailTimeout.......1[0;39m 
+2021-04-03 16:03:12.847 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39misolateInternalQueries..........false[0;39m 
+2021-04-03 16:03:12.847 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mjdbcUrl.........................jdbc:h2:mem:testdb[0;39m 
+2021-04-03 16:03:12.848 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mleakDetectionThreshold..........0[0;39m 
+2021-04-03 16:03:12.848 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaxLifetime.....................1800000[0;39m 
+2021-04-03 16:03:12.848 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaximumPoolSize.................10[0;39m 
+2021-04-03 16:03:12.849 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricRegistry..................none[0;39m 
+2021-04-03 16:03:12.849 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricsTrackerFactory...........none[0;39m 
+2021-04-03 16:03:12.849 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mminimumIdle.....................10[0;39m 
+2021-04-03 16:03:12.849 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpassword........................<masked>[0;39m 
+2021-04-03 16:03:12.850 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpoolName........................"HikariPool-1"[0;39m 
+2021-04-03 16:03:12.850 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mreadOnly........................false[0;39m 
+2021-04-03 16:03:12.850 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mregisterMbeans..................false[0;39m 
+2021-04-03 16:03:12.851 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mscheduledExecutor...............none[0;39m 
+2021-04-03 16:03:12.851 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mschema..........................none[0;39m 
+2021-04-03 16:03:12.851 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mthreadFactory...................internal[0;39m 
+2021-04-03 16:03:12.851 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mtransactionIsolation............default[0;39m 
+2021-04-03 16:03:12.852 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39musername........................"sa"[0;39m 
+2021-04-03 16:03:12.852 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mvalidationTimeout...............5000[0;39m 
+2021-04-03 16:03:12.852 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Starting...[0;39m 
+2021-04-03 16:03:12.932 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:03:12.934 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Start completed.[0;39m 
+2021-04-03 16:03:13.036 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)[0;39m 
+2021-04-03 16:03:13.037 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn1: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:03:13.038 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn2: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:03:13.038 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn3: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:03:13.039 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn4: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:03:13.040 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn5: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:03:13.040 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn6: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:03:13.041 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn7: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:03:13.041 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn8: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:03:13.042 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn9: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:03:13.042 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:03:14.786 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarted AgvcontrollerApplication in 4.197 seconds (JVM running for 5.781)[0;39m 
+2021-04-03 16:07:49.041 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarting AgvcontrollerApplication using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 3416 (D:\study\agv\agvcontroller\api\build\classes\java\main started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 16:07:49.045 [main] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 16:07:49.046 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 16:07:50.956 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mDriver class org.h2.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@b4aac2[0;39m 
+2021-04-03 16:07:51.042 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mHikariPool-1 - configuration:[0;39m 
+2021-04-03 16:07:51.043 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mallowPoolSuspension.............false[0;39m 
+2021-04-03 16:07:51.044 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mautoCommit......................true[0;39m 
+2021-04-03 16:07:51.044 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mcatalog.........................none[0;39m 
+2021-04-03 16:07:51.044 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionInitSql...............none[0;39m 
+2021-04-03 16:07:51.047 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTestQuery.............none[0;39m 
+2021-04-03 16:07:51.047 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTimeout...............30000[0;39m 
+2021-04-03 16:07:51.047 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSource......................none[0;39m 
+2021-04-03 16:07:51.047 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceClassName.............none[0;39m 
+2021-04-03 16:07:51.048 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceJNDI..................none[0;39m 
+2021-04-03 16:07:51.048 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceProperties............{password=<masked>}[0;39m 
+2021-04-03 16:07:51.048 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdriverClassName................."org.h2.Driver"[0;39m 
+2021-04-03 16:07:51.048 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mexceptionOverrideClassName......none[0;39m 
+2021-04-03 16:07:51.049 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckProperties...........{}[0;39m 
+2021-04-03 16:07:51.049 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckRegistry.............none[0;39m 
+2021-04-03 16:07:51.049 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39midleTimeout.....................600000[0;39m 
+2021-04-03 16:07:51.049 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39minitializationFailTimeout.......1[0;39m 
+2021-04-03 16:07:51.049 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39misolateInternalQueries..........false[0;39m 
+2021-04-03 16:07:51.049 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mjdbcUrl.........................jdbc:h2:mem:testdb[0;39m 
+2021-04-03 16:07:51.050 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mleakDetectionThreshold..........0[0;39m 
+2021-04-03 16:07:51.050 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaxLifetime.....................1800000[0;39m 
+2021-04-03 16:07:51.050 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaximumPoolSize.................10[0;39m 
+2021-04-03 16:07:51.050 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricRegistry..................none[0;39m 
+2021-04-03 16:07:51.050 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricsTrackerFactory...........none[0;39m 
+2021-04-03 16:07:51.050 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mminimumIdle.....................10[0;39m 
+2021-04-03 16:07:51.051 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpassword........................<masked>[0;39m 
+2021-04-03 16:07:51.051 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpoolName........................"HikariPool-1"[0;39m 
+2021-04-03 16:07:51.051 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mreadOnly........................false[0;39m 
+2021-04-03 16:07:51.051 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mregisterMbeans..................false[0;39m 
+2021-04-03 16:07:51.051 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mscheduledExecutor...............none[0;39m 
+2021-04-03 16:07:51.052 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mschema..........................none[0;39m 
+2021-04-03 16:07:51.052 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mthreadFactory...................internal[0;39m 
+2021-04-03 16:07:51.052 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mtransactionIsolation............default[0;39m 
+2021-04-03 16:07:51.052 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39musername........................"sa"[0;39m 
+2021-04-03 16:07:51.052 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mvalidationTimeout...............5000[0;39m 
+2021-04-03 16:07:51.052 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Starting...[0;39m 
+2021-04-03 16:07:51.128 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:07:51.129 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Start completed.[0;39m 
+2021-04-03 16:07:51.231 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)[0;39m 
+2021-04-03 16:07:51.232 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn1: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:07:51.232 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn2: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:07:51.232 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn3: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:07:51.233 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn4: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:07:51.233 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn5: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:07:51.234 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn6: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:07:51.234 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn7: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:07:51.235 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn8: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:07:51.235 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn9: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:07:51.235 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:07:53.123 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarted AgvcontrollerApplication in 4.494 seconds (JVM running for 6.01)[0;39m 
+2021-04-03 16:08:21.232 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:08:21.232 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Fill pool skipped, pool is at sufficient level.[0;39m 
+2021-04-03 16:11:38.759 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarting AgvcontrollerApplication using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 572 (D:\study\agv\agvcontroller\api\build\classes\java\main started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 16:11:38.762 [main] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 16:11:38.762 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 16:11:40.381 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mDriver class org.h2.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@b4aac2[0;39m 
+2021-04-03 16:11:40.474 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mHikariPool-1 - configuration:[0;39m 
+2021-04-03 16:11:40.476 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mallowPoolSuspension.............false[0;39m 
+2021-04-03 16:11:40.476 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mautoCommit......................true[0;39m 
+2021-04-03 16:11:40.476 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mcatalog.........................none[0;39m 
+2021-04-03 16:11:40.477 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionInitSql...............none[0;39m 
+2021-04-03 16:11:40.477 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTestQuery.............none[0;39m 
+2021-04-03 16:11:40.477 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTimeout...............30000[0;39m 
+2021-04-03 16:11:40.477 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSource......................none[0;39m 
+2021-04-03 16:11:40.477 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceClassName.............none[0;39m 
+2021-04-03 16:11:40.477 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceJNDI..................none[0;39m 
+2021-04-03 16:11:40.478 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceProperties............{password=<masked>}[0;39m 
+2021-04-03 16:11:40.478 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdriverClassName................."org.h2.Driver"[0;39m 
+2021-04-03 16:11:40.479 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mexceptionOverrideClassName......none[0;39m 
+2021-04-03 16:11:40.479 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckProperties...........{}[0;39m 
+2021-04-03 16:11:40.479 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckRegistry.............none[0;39m 
+2021-04-03 16:11:40.479 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39midleTimeout.....................600000[0;39m 
+2021-04-03 16:11:40.479 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39minitializationFailTimeout.......1[0;39m 
+2021-04-03 16:11:40.480 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39misolateInternalQueries..........false[0;39m 
+2021-04-03 16:11:40.480 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mjdbcUrl.........................jdbc:h2:mem:testdb[0;39m 
+2021-04-03 16:11:40.480 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mleakDetectionThreshold..........0[0;39m 
+2021-04-03 16:11:40.480 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaxLifetime.....................1800000[0;39m 
+2021-04-03 16:11:40.481 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaximumPoolSize.................10[0;39m 
+2021-04-03 16:11:40.481 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricRegistry..................none[0;39m 
+2021-04-03 16:11:40.481 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricsTrackerFactory...........none[0;39m 
+2021-04-03 16:11:40.481 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mminimumIdle.....................10[0;39m 
+2021-04-03 16:11:40.481 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpassword........................<masked>[0;39m 
+2021-04-03 16:11:40.481 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpoolName........................"HikariPool-1"[0;39m 
+2021-04-03 16:11:40.481 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mreadOnly........................false[0;39m 
+2021-04-03 16:11:40.482 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mregisterMbeans..................false[0;39m 
+2021-04-03 16:11:40.482 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mscheduledExecutor...............none[0;39m 
+2021-04-03 16:11:40.482 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mschema..........................none[0;39m 
+2021-04-03 16:11:40.482 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mthreadFactory...................internal[0;39m 
+2021-04-03 16:11:40.482 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mtransactionIsolation............default[0;39m 
+2021-04-03 16:11:40.482 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39musername........................"sa"[0;39m 
+2021-04-03 16:11:40.482 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mvalidationTimeout...............5000[0;39m 
+2021-04-03 16:11:40.483 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Starting...[0;39m 
+2021-04-03 16:11:40.569 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:11:40.571 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Start completed.[0;39m 
+2021-04-03 16:11:40.672 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)[0;39m 
+2021-04-03 16:11:40.673 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn1: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:11:40.673 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn2: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:11:40.673 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn3: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:11:40.674 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn4: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:11:40.674 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn5: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:11:40.675 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn6: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:11:40.675 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn7: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:11:40.675 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn8: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:11:40.676 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn9: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:11:40.676 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:11:42.482 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarted AgvcontrollerApplication in 4.103 seconds (JVM running for 5.674)[0;39m 
+2021-04-03 16:12:08.929 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarting AgvcontrollerApplication using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 2072 (D:\study\agv\agvcontroller\api\build\classes\java\main started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 16:12:08.932 [main] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 16:12:08.932 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 16:12:10.390 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mDriver class org.h2.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@b4aac2[0;39m 
+2021-04-03 16:12:10.478 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mHikariPool-1 - configuration:[0;39m 
+2021-04-03 16:12:10.480 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mallowPoolSuspension.............false[0;39m 
+2021-04-03 16:12:10.481 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mautoCommit......................true[0;39m 
+2021-04-03 16:12:10.481 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mcatalog.........................none[0;39m 
+2021-04-03 16:12:10.481 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionInitSql...............none[0;39m 
+2021-04-03 16:12:10.481 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTestQuery.............none[0;39m 
+2021-04-03 16:12:10.481 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTimeout...............30000[0;39m 
+2021-04-03 16:12:10.482 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSource......................none[0;39m 
+2021-04-03 16:12:10.482 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceClassName.............none[0;39m 
+2021-04-03 16:12:10.482 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceJNDI..................none[0;39m 
+2021-04-03 16:12:10.482 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceProperties............{password=<masked>}[0;39m 
+2021-04-03 16:12:10.483 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdriverClassName................."org.h2.Driver"[0;39m 
+2021-04-03 16:12:10.483 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mexceptionOverrideClassName......none[0;39m 
+2021-04-03 16:12:10.483 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckProperties...........{}[0;39m 
+2021-04-03 16:12:10.483 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckRegistry.............none[0;39m 
+2021-04-03 16:12:10.483 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39midleTimeout.....................600000[0;39m 
+2021-04-03 16:12:10.483 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39minitializationFailTimeout.......1[0;39m 
+2021-04-03 16:12:10.484 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39misolateInternalQueries..........false[0;39m 
+2021-04-03 16:12:10.484 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mjdbcUrl.........................jdbc:h2:mem:testdb[0;39m 
+2021-04-03 16:12:10.484 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mleakDetectionThreshold..........0[0;39m 
+2021-04-03 16:12:10.484 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaxLifetime.....................1800000[0;39m 
+2021-04-03 16:12:10.484 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaximumPoolSize.................10[0;39m 
+2021-04-03 16:12:10.485 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricRegistry..................none[0;39m 
+2021-04-03 16:12:10.485 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricsTrackerFactory...........none[0;39m 
+2021-04-03 16:12:10.485 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mminimumIdle.....................10[0;39m 
+2021-04-03 16:12:10.485 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpassword........................<masked>[0;39m 
+2021-04-03 16:12:10.485 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpoolName........................"HikariPool-1"[0;39m 
+2021-04-03 16:12:10.485 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mreadOnly........................false[0;39m 
+2021-04-03 16:12:10.485 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mregisterMbeans..................false[0;39m 
+2021-04-03 16:12:10.486 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mscheduledExecutor...............none[0;39m 
+2021-04-03 16:12:10.486 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mschema..........................none[0;39m 
+2021-04-03 16:12:10.486 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mthreadFactory...................internal[0;39m 
+2021-04-03 16:12:10.486 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mtransactionIsolation............default[0;39m 
+2021-04-03 16:12:10.486 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39musername........................"sa"[0;39m 
+2021-04-03 16:12:10.487 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mvalidationTimeout...............5000[0;39m 
+2021-04-03 16:12:10.487 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Starting...[0;39m 
+2021-04-03 16:12:10.553 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:12:10.555 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Start completed.[0;39m 
+2021-04-03 16:12:10.656 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)[0;39m 
+2021-04-03 16:12:10.657 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn1: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:12:10.657 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn2: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:12:10.657 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn3: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:12:10.658 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn4: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:12:10.658 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn5: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:12:10.658 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn6: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:12:10.659 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn7: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:12:10.659 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn8: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:12:10.660 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn9: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:12:10.660 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:12:12.239 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarted AgvcontrollerApplication in 3.673 seconds (JVM running for 5.187)[0;39m 
+2021-04-03 16:12:40.657 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:12:40.657 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Fill pool skipped, pool is at sufficient level.[0;39m 
+2021-04-03 16:13:10.658 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:13:10.658 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Fill pool skipped, pool is at sufficient level.[0;39m 
+2021-04-03 16:13:40.660 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:13:40.661 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Fill pool skipped, pool is at sufficient level.[0;39m 
+2021-04-03 16:13:48.521 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarting AgvcontrollerApplication using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 9232 (D:\study\agv\agvcontroller\api\build\classes\java\main started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 16:13:48.523 [main] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 16:13:48.523 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 16:13:49.837 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mDriver class org.h2.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@b4aac2[0;39m 
+2021-04-03 16:13:49.908 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mHikariPool-1 - configuration:[0;39m 
+2021-04-03 16:13:49.910 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mallowPoolSuspension.............false[0;39m 
+2021-04-03 16:13:49.910 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mautoCommit......................true[0;39m 
+2021-04-03 16:13:49.910 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mcatalog.........................none[0;39m 
+2021-04-03 16:13:49.910 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionInitSql...............none[0;39m 
+2021-04-03 16:13:49.910 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTestQuery.............none[0;39m 
+2021-04-03 16:13:49.910 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTimeout...............30000[0;39m 
+2021-04-03 16:13:49.910 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSource......................none[0;39m 
+2021-04-03 16:13:49.910 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceClassName.............none[0;39m 
+2021-04-03 16:13:49.910 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceJNDI..................none[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceProperties............{password=<masked>}[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdriverClassName................."org.h2.Driver"[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mexceptionOverrideClassName......none[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckProperties...........{}[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckRegistry.............none[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39midleTimeout.....................600000[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39minitializationFailTimeout.......1[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39misolateInternalQueries..........false[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mjdbcUrl.........................jdbc:h2:mem:testdb[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mleakDetectionThreshold..........0[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaxLifetime.....................1800000[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaximumPoolSize.................10[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricRegistry..................none[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricsTrackerFactory...........none[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mminimumIdle.....................10[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpassword........................<masked>[0;39m 
+2021-04-03 16:13:49.911 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpoolName........................"HikariPool-1"[0;39m 
+2021-04-03 16:13:49.912 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mreadOnly........................false[0;39m 
+2021-04-03 16:13:49.912 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mregisterMbeans..................false[0;39m 
+2021-04-03 16:13:49.912 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mscheduledExecutor...............none[0;39m 
+2021-04-03 16:13:49.912 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mschema..........................none[0;39m 
+2021-04-03 16:13:49.912 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mthreadFactory...................internal[0;39m 
+2021-04-03 16:13:49.912 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mtransactionIsolation............default[0;39m 
+2021-04-03 16:13:49.912 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39musername........................"sa"[0;39m 
+2021-04-03 16:13:49.912 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mvalidationTimeout...............5000[0;39m 
+2021-04-03 16:13:49.912 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Starting...[0;39m 
+2021-04-03 16:13:49.974 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:13:49.975 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Start completed.[0;39m 
+2021-04-03 16:13:50.076 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)[0;39m 
+2021-04-03 16:13:50.077 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn1: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:13:50.077 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn2: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:13:50.077 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn3: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:13:50.078 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn4: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:13:50.078 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn5: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:13:50.078 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn6: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:13:50.078 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn7: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:13:50.079 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn8: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:13:50.079 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn9: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:13:50.079 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:13:51.557 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarted AgvcontrollerApplication in 3.389 seconds (JVM running for 4.75)[0;39m 
+2021-04-03 16:14:10.079 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarting AgvcontrollerApplication using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 5340 (D:\study\agv\agvcontroller\api\build\classes\java\main started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 16:14:10.082 [main] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 16:14:10.082 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 16:14:11.535 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mDriver class org.h2.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@b4aac2[0;39m 
+2021-04-03 16:14:11.626 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mHikariPool-1 - configuration:[0;39m 
+2021-04-03 16:14:11.628 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mallowPoolSuspension.............false[0;39m 
+2021-04-03 16:14:11.628 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mautoCommit......................true[0;39m 
+2021-04-03 16:14:11.629 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mcatalog.........................none[0;39m 
+2021-04-03 16:14:11.629 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionInitSql...............none[0;39m 
+2021-04-03 16:14:11.629 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTestQuery.............none[0;39m 
+2021-04-03 16:14:11.629 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mconnectionTimeout...............30000[0;39m 
+2021-04-03 16:14:11.629 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSource......................none[0;39m 
+2021-04-03 16:14:11.630 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceClassName.............none[0;39m 
+2021-04-03 16:14:11.630 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceJNDI..................none[0;39m 
+2021-04-03 16:14:11.631 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdataSourceProperties............{password=<masked>}[0;39m 
+2021-04-03 16:14:11.631 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mdriverClassName................."org.h2.Driver"[0;39m 
+2021-04-03 16:14:11.631 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mexceptionOverrideClassName......none[0;39m 
+2021-04-03 16:14:11.631 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckProperties...........{}[0;39m 
+2021-04-03 16:14:11.631 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mhealthCheckRegistry.............none[0;39m 
+2021-04-03 16:14:11.632 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39midleTimeout.....................600000[0;39m 
+2021-04-03 16:14:11.632 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39minitializationFailTimeout.......1[0;39m 
+2021-04-03 16:14:11.632 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39misolateInternalQueries..........false[0;39m 
+2021-04-03 16:14:11.632 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mjdbcUrl.........................jdbc:h2:mem:testdb[0;39m 
+2021-04-03 16:14:11.632 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mleakDetectionThreshold..........0[0;39m 
+2021-04-03 16:14:11.633 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaxLifetime.....................1800000[0;39m 
+2021-04-03 16:14:11.633 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmaximumPoolSize.................10[0;39m 
+2021-04-03 16:14:11.633 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricRegistry..................none[0;39m 
+2021-04-03 16:14:11.633 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mmetricsTrackerFactory...........none[0;39m 
+2021-04-03 16:14:11.633 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mminimumIdle.....................10[0;39m 
+2021-04-03 16:14:11.634 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpassword........................<masked>[0;39m 
+2021-04-03 16:14:11.634 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mpoolName........................"HikariPool-1"[0;39m 
+2021-04-03 16:14:11.634 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mreadOnly........................false[0;39m 
+2021-04-03 16:14:11.634 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mregisterMbeans..................false[0;39m 
+2021-04-03 16:14:11.634 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mscheduledExecutor...............none[0;39m 
+2021-04-03 16:14:11.634 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mschema..........................none[0;39m 
+2021-04-03 16:14:11.635 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mthreadFactory...................internal[0;39m 
+2021-04-03 16:14:11.635 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mtransactionIsolation............default[0;39m 
+2021-04-03 16:14:11.635 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39musername........................"sa"[0;39m 
+2021-04-03 16:14:11.635 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.HikariConfig[0;39m - [39mvalidationTimeout...............5000[0;39m 
+2021-04-03 16:14:11.635 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Starting...[0;39m 
+2021-04-03 16:14:11.709 [main] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:14:11.711 [main] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [34mHikariPool-1 - Start completed.[0;39m 
+2021-04-03 16:14:11.812 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)[0;39m 
+2021-04-03 16:14:11.813 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn1: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:14:11.813 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn2: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:14:11.813 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn3: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:14:11.814 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn4: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:14:11.814 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn5: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:14:11.814 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn6: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:14:11.815 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn7: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:14:11.815 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn8: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:14:11.815 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Added connection conn9: url=jdbc:h2:mem:testdb user=SA[0;39m 
+2021-04-03 16:14:11.815 [HikariPool-1 connection adder] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:14:13.512 [main] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplication[0;39m - [34mStarted AgvcontrollerApplication in 3.826 seconds (JVM running for 5.287)[0;39m 
+2021-04-03 16:14:41.813 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)[0;39m 
+2021-04-03 16:14:41.813 [HikariPool-1 housekeeper] [39mDEBUG[0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [39mHikariPool-1 - Fill pool skipped, pool is at sufficient level.[0;39m 
+2021-04-03 16:15:06.573 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarting AgvcontrollerApplicationTests using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 1616 (started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 16:15:06.573 [Test worker] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 16:15:06.576 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 16:15:06.754 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarted AgvcontrollerApplicationTests in 0.436 seconds (JVM running for 2.479)[0;39m 
+2021-04-03 16:15:06.985 [Test worker] [1;31mERROR[0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [1;31m2333333[0;39m 
+2021-04-03 16:54:49.568 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarting AgvcontrollerApplicationTests using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 13888 (started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 16:54:49.569 [Test worker] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 16:54:49.572 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 16:54:49.745 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarted AgvcontrollerApplicationTests in 0.433 seconds (JVM running for 2.477)[0;39m 
+2021-04-03 16:54:49.978 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34m2333[0;39m 
+2021-04-03 16:55:11.299 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarting AgvcontrollerApplicationTests using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 13524 (started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 16:55:11.300 [Test worker] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 16:55:11.303 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 16:55:11.482 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarted AgvcontrollerApplicationTests in 0.449 seconds (JVM running for 2.55)[0;39m 
+2021-04-03 17:01:13.939 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarting AgvcontrollerApplicationTests using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 13392 (started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 17:01:13.940 [Test worker] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 17:01:13.943 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 17:01:14.118 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarted AgvcontrollerApplicationTests in 0.438 seconds (JVM running for 2.647)[0;39m 
+2021-04-03 17:01:14.495 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mOPERATING[0;39m 
+2021-04-03 17:07:44.588 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarting AgvcontrollerApplicationTests using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 12544 (started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 17:07:44.589 [Test worker] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 17:07:44.593 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 17:07:44.769 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarted AgvcontrollerApplicationTests in 0.444 seconds (JVM running for 2.616)[0;39m 
+2021-04-03 17:07:45.084 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mDemo-01[0;39m 
+2021-04-03 17:08:52.016 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarting AgvcontrollerApplicationTests using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 3628 (started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 17:08:52.016 [Test worker] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 17:08:52.019 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 17:08:52.190 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarted AgvcontrollerApplicationTests in 0.416 seconds (JVM running for 2.538)[0;39m 
+2021-04-03 17:08:52.494 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mDemo-01[0;39m 
+2021-04-03 17:17:47.444 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarting AgvcontrollerApplicationTests using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 4144 (started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 17:17:47.445 [Test worker] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 17:17:47.448 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 17:17:47.627 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarted AgvcontrollerApplicationTests in 0.439 seconds (JVM running for 2.678)[0;39m 
+2021-04-03 17:17:47.950 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mOPERATING[0;39m 
+2021-04-03 17:21:02.006 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarting AgvcontrollerApplicationTests using Java 1.8.0_251 on DESKTOP-BTD6GK7 with PID 11840 (started by JieBrother in D:\study\agv\agvcontroller\api)[0;39m 
+2021-04-03 17:21:02.007 [Test worker] [39mDEBUG[0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [39mRunning with Spring Boot v2.4.4, Spring v5.3.5[0;39m 
+2021-04-03 17:21:02.009 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mNo active profile set, falling back to default profiles: default[0;39m 
+2021-04-03 17:21:02.177 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mStarted AgvcontrollerApplicationTests in 0.422 seconds (JVM running for 2.501)[0;39m 
+2021-04-03 17:21:02.486 [Test worker] [34mINFO [0;39m [36mcom.hebut.AgvcontrollerApplicationTests[0;39m - [34mDemo-01[0;39m 
