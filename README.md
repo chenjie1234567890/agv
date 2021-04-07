@@ -4,3 +4,9 @@
 -- web 前端,基于antd design pro
 -- api 后端,基于spring boot
 -- openTCS,openTCS源码
+
+web
+
+``npm install``
+
+``npm start``
